@@ -49,7 +49,7 @@ body {
 }
 
 .two {
-  font-size: 1.2rem;
+  font-size: 3rem;
   font-weight: lighter;
 }
 
@@ -126,7 +126,9 @@ body {
   position: absolute;
   width: 80px;
   top: -35px;
-  left: 41.5%;
+  right: 500px;
+  /*left: 35.5%; */
+  transform: sacle(2);
   /* transform: scale(0.1); */
 }
 
